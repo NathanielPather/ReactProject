@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Hello.js" />
     <Content Include="Index.html" />
     <Content Include="React.js" />
     <Content Include="Web.config" />
